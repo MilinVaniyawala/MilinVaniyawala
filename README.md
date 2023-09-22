@@ -1,4 +1,4 @@
-#Milin Vaniyawala
+# Milin Vaniyawala
 
 I am a front-end developer with industry experience building websites and web applications. I specialize in JavaScript and React JS and have professional experience working with PHP.
 
