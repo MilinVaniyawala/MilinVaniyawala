@@ -22,6 +22,9 @@ I am a front-end developer with industry experience building websites and web ap
 | ChitChatChai | [Chit Chat Chai](https://www.chitchatchai.in/) | WordPress, PHP |
 | ICAS Technology | [ICAS Technology](https://www.icastechnology.com/) | React |
 | My Business Matches | [My Business Matches](https://www.mybusinessmatches.com/)| React |
+
+## Social Media
+[![LinkedIn](linkedIn.png 'linkedin Profile')](https://www.linkedin.com/in/milin-vaniyawala-510aa7141/)
 <!--
 **MilinVaniyawala/MilinVaniyawala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
