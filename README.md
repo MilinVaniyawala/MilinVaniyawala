@@ -2,7 +2,7 @@
 
 I am a front-end developer with industry experience building websites and web applications. I specialize in JavaScript and React JS and have professional experience working with PHP as well as WordPress.
 
-## Education
+## 📚Education
 
 - I just got admission to Humber College for the Web Development Course.
 - I also completed my bachelor's degree in Computer Engineering from India.
