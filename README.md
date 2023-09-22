@@ -13,6 +13,15 @@ I am a front-end developer with industry experience building websites and web ap
 - I have 3 years of experience as a Front-End-Developer.
 - I developed ERP, CRM, and Web Applications using React JS and PHP, I also have worked with back-end technologies(Laravel, Node).
 - In my free time, I learned and researched about networking and the Raspberry PI 4B+ Model.
+
+## 🌐 Projects
+
+| Title        |                      URL                       |     Technology |
+| :----------- | :--------------------------------------------: | -------------: |
+| NV Diamonds  |     [Nv Diamonds](https://nvdiamonds.in/)      | WordPress, PHP |
+| ChitChatChai | [Chit Chat Chai](https://www.chitchatchai.in/) | WordPress, PHP |
+| ICAS Technology | [ICAS Technology](https://www.icastechnology.com/) | React |
+| My Business Matches | [My Business Matches](https://www.mybusinessmatches.com/)| React |
 <!--
 **MilinVaniyawala/MilinVaniyawala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
